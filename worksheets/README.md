@@ -4,8 +4,10 @@
 sheet you define. A student can type into the boxes and save the file, or print it and write by
 hand. Both work, because every answer space is sized for handwriting first.
 
+<img src="../docs/worksheet.png" width="420" alt="Page 1 of the example worksheet: name field, then 'Quis est?' with short answer boxes, 'Respondē Latīnē' with two-line boxes, and true/false items">
+
 ```bash
-pip install pymupdf pillow
+pip install -r ../requirements.txt
 python worksheet.py --data example --out built
 ```
 

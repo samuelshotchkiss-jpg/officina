@@ -17,7 +17,7 @@ On macronized Latin, OCR is good at finding **where** each word sits on the page
    mostly right even when its macrons are wrong.
 
 ```bash
-pip install pymupdf
+pip install -r ../requirements.txt
 python ocr_layer.py book.pdf --out lectio1.ocr.pdf --pages 3-5 --flip even
 python retext_pdf.py lectio1.ocr.pdf --text lectio1.txt --out lectio1.pdf --apply
 ```

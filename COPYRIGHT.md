@@ -11,10 +11,15 @@ and so are facts about it: a word's meaning, its forms, the length of its vowels
 ## 2. Written content — CC BY-NC-SA 4.0
 
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (see
-[`LICENSE-CONTENT`](LICENSE-CONTENT)): the documentation and the example inputs, which are the
-exercises, quiz, schedule and crossword written for this repository.
+[`LICENSE-CONTENT`](LICENSE-CONTENT)): the documentation, the example inputs (the
+exercises, quiz, schedule and crossword written for this repository), and the pictures in `docs/`,
+which show what the tools make from those examples.
 
 - `README.md`
+- `docs/worksheet.png`
+- `docs/schedule.png`
+- `docs/swyk.png`
+- `docs/crossword.png`
 - `worksheets/README.md`
 - `worksheets/example/packets_data.json`
 - `scans/README.md`
@@ -32,6 +37,7 @@ commercially, and must release adaptations under the same terms.
 Licensed under the GNU Affero General Public License, version 3 (see
 [`LICENSE-CODE`](LICENSE-CODE)):
 
+- `requirements.txt`
 - `worksheets/worksheet.py`
 - `scans/ocr_layer.py`
 - `scans/retext_pdf.py`

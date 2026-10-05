@@ -10,6 +10,8 @@ node swyk_docx.js     examples/swyk.json     quiz.docx
 node crossword.js     examples/crossword.json crossword.html
 ```
 
+<img src="../docs/schedule.png" width="300" alt="The example schedule"> <img src="../docs/swyk.png" width="300" alt="Page 1 of the example quiz: the story, with new words underlined"> <img src="../docs/crossword.png" width="240" alt="The example crossword">
+
 | script | makes | notes |
 |---|---|---|
 | `schedule_docx.js` | a course schedule as a Word table: one row per stretch of classes, with its dates, time, reading and support, plus full-width rows for major work and breaks | dates are `YYYY-MM-DD`; a stretch with `"short": true` is shaded |
