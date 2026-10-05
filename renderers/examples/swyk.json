@@ -1,0 +1,62 @@
+{
+ "title": "Daedalus (sample)",
+ "course": "Latin II",
+ "story_size": 14,
+ "blank_back": false,
+ "story": [
+  [
+   {"text": "Daedalus artifex in īnsulā Crētā habitat. Rēx Mīnōs eum discēdere nōn sinit. Daedalus īrātus est, sed cōnsilium capit: “Terra et mare clausa sunt,” inquit, “sed caelum apertum est!”", "guess": false}
+  ],
+  [
+   {"text": "Itaque pennās ", "guess": false},
+   {"text": "colligit", "guess": true},
+   {"text": " et cērā iungit. Fīliō Īcarō ālās dat et monet: “Volā mēcum, nec nimis altē nec nimis humiliter!” Īcarus tamen gaudet et ad sōlem volat. Cēra ", "guess": false},
+   {"text": "liquēscit", "guess": true},
+   {"text": ", et puer in mare cadit.", "guess": false}
+  ]
+ ],
+ "glosses": [
+  {"term": "cēra, -ae", "gloss": "wax"}
+ ],
+ "key_words": [
+  {"form": "capit", "sentence": [
+   {"text": "Daedalus īrātus est, sed cōnsilium "}, {"text": "capit", "key": true}, {"text": "."}]},
+  {"form": "monet", "sentence": [
+   {"text": "Fīliō Īcarō ālās dat et "}, {"text": "monet", "key": true}, {"text": "."}]}
+ ],
+ "guesses": [
+  {"word": "colligit", "sentence": "Itaque pennās colligit et cērā iungit.",
+   "prompt": "What do you think {w} means? Name an English word that comes from it.", "space": 0.9},
+  {"word": "liquēscit", "sentence": "Cēra liquēscit, et puer in mare cadit.",
+   "prompt": "What do you think {w} means? Name an English word that comes from it.", "space": 0.9}
+ ],
+ "part3_instruction": "Answer each question in English, then mark the Latin that supports your answer as shown.",
+ "main": [
+  {"q": "Why does Daedalus decide to fly?", "detail": "What stops him from leaving any other way?",
+   "mark": "Underline the sentence that tells you.", "space": 1.0},
+  {"q": "What happens to Icarus, and why?", "detail": null,
+   "mark": "Draw a box around the word that tells you what melts.", "space": 1.0}
+ ],
+ "inference": [
+  {"q": "Was Daedalus a good father? Use the story to support your answer.",
+   "instruction": "Quote at least one Latin phrase and explain it in English.", "space": 3.0}
+ ],
+ "rubric": {
+  "levels": ["Not yet", "Beginning", "Developing", "Proficient", "Advanced"],
+  "sections": [
+   {"title": "Reading the story", "rows": [
+    {"skill": "Vocabulary", "sub": "Parts 1–2",
+     "cells": ["I did not know most of the words.", "I knew a few words.", "I knew about half the words.",
+               "I knew most of the words.", "I knew the words and could explain them."]},
+    {"skill": "Understanding", "sub": "Parts 3–4",
+     "cells": ["I could not follow the story.", "I followed parts of it.", "I followed the main events.",
+               "I followed the events and the reasons for them.", "I could explain the story to someone else."]}
+   ]}
+  ]
+ },
+ "honor": "I have neither given nor received help on this quiz.",
+ "feedback": {
+  "intro": "Tell me about this quiz (optional):",
+  "questions": ["Which part was hardest, and why?", "What would have helped you prepare?"]
+ }
+}

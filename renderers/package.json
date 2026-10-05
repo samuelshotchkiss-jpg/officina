@@ -1,0 +1,11 @@
+{
+  "name": "latin-teacher-renderers",
+  "version": "1.0.0",
+  "private": true,
+  "license": "AGPL-3.0-only",
+  "description": "JSON in, Word or HTML out: a course schedule, a reading quiz, a crossword. See README.md.",
+  "dependencies": {
+    "crossword-layout-generator": "0.1.1",
+    "docx": "9.7.1"
+  }
+}

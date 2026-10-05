@@ -1,0 +1,20 @@
+{
+ "title": "Sample course schedule",
+ "heading": "Latin II · Sample schedule",
+ "preamble": "Every week: new vocabulary on Monday and a short vocabulary check on Friday. Major work has its own row.",
+ "summary": "A sample made for this repository: the course, dates and readings are invented.",
+ "chunks": [
+  {"chunk": 1, "dates": ["2027-01-11", "2027-01-13", "2027-01-15"], "minutes": 135,
+   "reading": "Ovid, Met. 8.183–202", "support": "Daedalus and Icarus: the escape is planned",
+   "major": []},
+  {"chunk": 2, "dates": ["2027-01-19", "2027-01-20", "2027-01-22"], "minutes": 135,
+   "minutes_note": "Mon: no class (holiday)", "short": true,
+   "reading": "Ovid, Met. 8.203–220", "support": "The flight",
+   "major": [{"kind": "quiz", "label": "Quiz", "subject": "Met. 8.183–220", "due_label": "Fri Jan 22"}],
+   "gap_after": "Winter break · no class Mon 1/25 – Fri 1/29"},
+  {"chunk": 3, "dates": ["2027-02-01", "2027-02-03", "2027-02-05"], "minutes": 135,
+   "reading": "Ovid, Met. 8.220–235", "support": "The fall; Daedalus mourns his son",
+   "major": [{"kind": "project", "label": "Project", "subject": "Illustrate one scene", "verb": "due",
+              "due_label": "Fri Feb 5"}]}
+ ]
+}

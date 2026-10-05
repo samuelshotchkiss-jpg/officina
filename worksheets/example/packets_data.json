@@ -1,0 +1,56 @@
+{
+ "SUBTITLE": "a sample sheet",
+ "INTRO": "Type in the blue boxes and save, or print and write by hand. Whenever you write Latin: short and simple is perfect, and almost everything you need is already in the story. Borrow it!",
+ "W": [
+  ["Exemplum", "Daedalus et Icarus", "A sample: every kind of item except pictures", [
+   {"ref": "ex. 1", "instr": "Quis est?", "box": null, "note": null, "items": [
+    ["short", "a. Artifex Athēniēnsis, quī ālās facit:"],
+    ["short", "b. Puer quī ad sōlem volat:"],
+    ["short", "c. Rēx Crētae, quī Daedalum retinet:"]
+   ]},
+   {"ref": "ex. 2", "instr": "Respondē Latīnē.", "box": null, "note": null, "items": [
+    ["q", "a. Cūr Daedalus Crētam relinquere vult?"],
+    ["q", "b. Quid pater fīliō dīcit, antequam volant?"]
+   ]},
+   {"ref": "ex. 3", "instr": "Vērumne an falsum? Corrige quod falsum est.", "box": null, "note": null, "items": [
+    ["vf", "a. Daedalus ālās ē pennīs et cērā facit."],
+    ["vf", "b. Īcarus prope sōlem volat, sed cēra nōn liquēscit."]
+   ]},
+   {"ref": "ex. 4", "instr": "Supplē verba ex capsā.", "box": "ālās · cēra · mare · sōlem", "note": null, "items": [
+    ["cloze", "Daedalus ___ facit. Īcarus ad ___ volat; ___ liquēscit, et puer in ___ cadit."]
+   ]},
+   {"ref": "ex. 5", "instr": "Coniunge sententiās.", "box": null, "note": null, "items": [
+    ["match",
+     ["a. Daedalus Crētam relinquere vult,", "b. Īcarus ad sōlem volat,", "c. Pater fīlium nōn videt,"],
+     ["1. et cēra liquēscit.", "2. et pennās in undīs videt.", "3. sed Mīnōs eum retinet."]]
+   ]},
+   {"ref": "ex. 6", "instr": "Quid significat?", "box": null, "note": null, "items": [
+    ["choice", "'nam pōnit in ōrdine pennās' (8.189):",
+     ["he lays the feathers out in order", "he burns the feathers one by one", "he gives the feathers to his son"]]
+   ]},
+   {"ref": "ex. 7", "instr": "Invenī in fābulā verbum quod idem (=) aut contrārium (≠) significat.", "box": null, "note": null, "items": [
+    ["table", ["avis =", "puer ="], ["pater ≠", "dēscendere ≠"]]
+   ]},
+   {"ref": "ex. 8", "instr": "Pōne in ōrdine (1–4).", "box": null, "note": null, "items": [
+    ["order", "Īcarus in mare cadit."],
+    ["order", "Daedalus ālās facit."],
+    ["order", "Pater et fīlius volant."],
+    ["order", "Cēra liquēscit."]
+   ]}
+  ]]
+ ],
+ "HELP": {
+  "ex. 1": "Who is it? Write one Latin name for each description.",
+  "ex. 2": "Answer in a short Latin sentence. The words you need are in the story: borrow them.",
+  "ex. 3": "True or false? Choose V (vērum) or F (falsum). If it is false, write the true version on the line.",
+  "ex. 4": "Fill each gap with a word from the box. Use each word once.",
+  "ex. 5": "Match the halves: write the letter of each beginning (a–c) in the box beside the ending that completes it.",
+  "ex. 6": "Tick the English that translates the Latin.",
+  "ex. 7": "Find a word in the story with the same (=) or the opposite (≠) meaning, and copy it as it appears.",
+  "ex. 8": "Number the events in the order they happen in the story."
+ },
+ "GLOSS": {
+  "ex. 3": "liquēscit: melts",
+  "ex. 4": "capsa: box"
+ }
+}

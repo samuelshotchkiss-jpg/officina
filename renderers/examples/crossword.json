@@ -1,0 +1,17 @@
+{
+ "title": "Daedalus and Icarus (sample crossword)",
+ "corpus": "sample",
+ "set": null,
+ "long_vowels": "ĀĒĪŌŪȲ",
+ "words": [
+  {"answer": "DAEDALUS", "bare": "DAEDALUS", "display": "Daedalus", "clue": "the craftsman who made wings", "entry_id": "daedalus"},
+  {"answer": "ĪCARUS", "bare": "ICARUS", "display": "Īcarus", "clue": "his son, who flew too close to the sun", "entry_id": "icarus"},
+  {"answer": "PENNA", "bare": "PENNA", "display": "penna", "clue": "feather", "entry_id": "penna"},
+  {"answer": "PATER", "bare": "PATER", "display": "pater", "clue": "father", "entry_id": "pater"},
+  {"answer": "CĒRA", "bare": "CERA", "display": "cēra", "clue": "wax", "entry_id": "cera"},
+  {"answer": "MARE", "bare": "MARE", "display": "mare", "clue": "sea", "entry_id": "mare"},
+  {"answer": "VOLŌ", "bare": "VOLO", "display": "volō", "clue": "I fly", "entry_id": "volo"},
+  {"answer": "ĀLA", "bare": "ALA", "display": "āla", "clue": "wing", "entry_id": "ala"},
+  {"answer": "SŌL", "bare": "SOL", "display": "sōl", "clue": "sun", "entry_id": "sol"}
+ ]
+}
